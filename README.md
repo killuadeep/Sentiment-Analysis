@@ -21,4 +21,8 @@ All these steps serve to reduce the noise inherent in any human-readable text an
 We could classify a sentence of our own and get positive results.
 
 # Conclusion:
+1. Accuracy on Train set Vs Validation set
 ![result-1](https://user-images.githubusercontent.com/77839791/108054614-e4148780-7074-11eb-997e-a681c7dc7726.png)
+2. Loss on Train set Vs Validation set
+![result-2](https://user-images.githubusercontent.com/77839791/108054737-0efedb80-7075-11eb-978a-344f192b0cf9.png)
+
