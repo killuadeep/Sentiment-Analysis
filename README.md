@@ -20,3 +20,5 @@ All these steps serve to reduce the noise inherent in any human-readable text an
 # Results:
 We could classify a sentence of our own and get positive results.
 
+# Conclusion:
+![result-1](https://user-images.githubusercontent.com/77839791/108054614-e4148780-7074-11eb-997e-a681c7dc7726.png)
